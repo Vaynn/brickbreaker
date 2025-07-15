@@ -8,6 +8,8 @@ Assets/StreamingAssets/openai_key.txt
 [Mm]emoryCaptures/
 sysinfo.txt
 
+Assets/Firebase/Plugins/x86_64/FirebaseCppApp-*.*
+
 # Rider
 .idea/
 *.sln
