@@ -1,0 +1,95 @@
+{
+    "bricks": [
+        {
+            "position": {
+                "x": -1.7999999523162842,
+                "y": 2.799999952316284
+            },
+            "prefabName": "ClassicRed"
+        },
+        {
+            "position": {
+                "x": 1.8000001907348633,
+                "y": 2.799999952316284
+            },
+            "prefabName": "ClassicRed"
+        },
+        {
+            "position": {
+                "x": 0.0,
+                "y": 2.799999952316284
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": -0.8999999761581421,
+                "y": 1.899999976158142
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": 0.9000000953674316,
+                "y": 1.899999976158142
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": 1.8000001907348633,
+                "y": 1.0
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": -1.7999999523162842,
+                "y": 1.0
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": -0.8999999761581421,
+                "y": 0.0
+            },
+            "prefabName": "ClassicBlue"
+        },
+        {
+            "position": {
+                "x": 0.9000000953674316,
+                "y": 0.0
+            },
+            "prefabName": "ClassicBlue"
+        },
+        {
+            "position": {
+                "x": 0.0,
+                "y": -0.8999998569488525
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": 1.8000001907348633,
+                "y": -0.8999998569488525
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": -1.7999999523162842,
+                "y": -0.8999998569488525
+            },
+            "prefabName": "ClassicViolet"
+        }
+    ]
+}

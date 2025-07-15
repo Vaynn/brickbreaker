@@ -1,0 +1,109 @@
+{
+    "bricks": [
+        {
+            "position": {
+                "x": -1.79998779296875,
+                "y": 2.5999755859375
+            },
+            "prefabName": "ClassicRed"
+        },
+        {
+            "position": {
+                "x": -1.79998779296875,
+                "y": 0.70001220703125
+            },
+            "prefabName": "ClassicRed"
+        },
+        {
+            "position": {
+                "x": 1.79998779296875,
+                "y": 2.5999755859375
+            },
+            "prefabName": "ClassicRed"
+        },
+        {
+            "position": {
+                "x": 1.79998779296875,
+                "y": 0.70001220703125
+            },
+            "prefabName": "ClassicRed"
+        },
+        {
+            "position": {
+                "x": 0.0,
+                "y": 2.5999755859375
+            },
+            "prefabName": "ClassicRed"
+        },
+        {
+            "position": {
+                "x": -0.899993896484375,
+                "y": 1.5999755859375
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": 0.899993896484375,
+                "y": 1.5999755859375
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": 0.0,
+                "y": 0.5999755859375
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": -0.899993896484375,
+                "y": -0.29998779296875
+            },
+            "prefabName": "ClassicBlue"
+        },
+        {
+            "position": {
+                "x": 0.899993896484375,
+                "y": -0.29998779296875
+            },
+            "prefabName": "ClassicBlue"
+        },
+        {
+            "position": {
+                "x": -1.79998779296875,
+                "y": -1.29998779296875
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": 1.79998779296875,
+                "y": -1.29998779296875
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": 0.0,
+                "y": -1.29998779296875
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": -0.899993896484375,
+                "y": -1.29998779296875
+            },
+            "prefabName": "ShrinkPaddle"
+        },
+        {
+            "position": {
+                "x": 0.899993896484375,
+                "y": -1.29998779296875
+            },
+            "prefabName": "BallSpeedUp"
+        }
+    ]
+}

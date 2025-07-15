@@ -1,0 +1,83 @@
+{
+    "items" : [
+        {
+            "id": "Croissant_Paddle",
+            "name": "Croissant Paddle",
+            "type": "paddle",
+            "price": 300,
+            "icon": "Croissant_Paddle"
+          },
+          {
+            "id": "Panther_Paddle",
+            "name": "Panther Paddle",
+            "type": "paddle",
+            "price": 500,
+            "icon": "Panther_Paddle"
+          },
+          {
+              "id": "Base_Paddle",
+              "name": "Base Paddle",
+              "type": "paddle",
+              "price": 0,
+              "icon": "Base_Paddle"
+            },
+            {
+              "id": "Emerald_Crystal_Paddle",
+              "name": "Emerald Crystal Paddle",
+              "type": "paddle",
+              "price": 100,
+              "icon": "Emerald_Crystal_Paddle"
+            },
+            {
+              "id": "Gold_Crystal_Paddle",
+              "name": "Gold Crystal Paddle",
+              "type": "paddle",
+              "price": 200,
+              "icon": "Gold_Crystal_Paddle"
+            },
+            {
+              "id": "Ruby_Crystal_Paddle",
+              "name": "Ruby Crystal Paddle",
+              "type": "paddle",
+              "price": 50,
+              "icon": "Ruby_Crystal_Paddle"
+            },
+            {
+              "id": "Base_Ball",
+              "name": "Base Ball",
+              "type": "ball",
+              "price": 0,
+              "icon": "Base_Ball"
+            },
+            {
+              "id": "Chicken_Ball",
+              "name": "Chicken Ball",
+              "type": "ball",
+              "price": 60,
+              "icon": "Chicken_Ball"
+            },
+            {
+              "id": "Crystal_Ball",
+              "name": "Crystal Ball",
+              "type": "ball",
+              "price": 100,
+              "icon": "Crystal_Ball"
+            },
+            {
+              "id": "Magic_Ball",
+              "name": "Magic Ball",
+              "type": "ball",
+              "price": 200,
+              "icon": "Magic_Ball"
+            },
+            {
+                "id": "Extra_Life",
+                "name": "Extra Life",
+                "type": "health",
+                "price": 200,
+                "icon": "Extra_Life"
+              }
+    ]
+}
+    
+    

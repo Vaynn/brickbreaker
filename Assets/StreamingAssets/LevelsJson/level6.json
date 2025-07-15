@@ -1,0 +1,67 @@
+{
+    "bricks": [
+        {
+            "position": {
+                "x": -1.8679519891738892,
+                "y": 2.4676403999328615
+            },
+            "prefabName": "ClassicRed"
+        },
+        {
+            "position": {
+                "x": -1.8679518699645997,
+                "y": -1.262359619140625
+            },
+            "prefabName": "ClassicRed"
+        },
+        {
+            "position": {
+                "x": 1.832047939300537,
+                "y": 2.4676403999328615
+            },
+            "prefabName": "ClassicRed"
+        },
+        {
+            "position": {
+                "x": 1.832047939300537,
+                "y": -1.262359619140625
+            },
+            "prefabName": "ClassicRed"
+        },
+        {
+            "position": {
+                "x": -1.0679519176483155,
+                "y": 1.5376403331756592
+            },
+            "prefabName": "ShrinkPaddle"
+        },
+        {
+            "position": {
+                "x": 0.8320479393005371,
+                "y": -0.36235976219177248
+            },
+            "prefabName": "ShrinkPaddle"
+        },
+        {
+            "position": {
+                "x": 0.9320480823516846,
+                "y": 1.5376403331756592
+            },
+            "prefabName": "BallSpeedUp"
+        },
+        {
+            "position": {
+                "x": -1.0679519176483155,
+                "y": -0.36235976219177248
+            },
+            "prefabName": "BallSpeedUp"
+        },
+        {
+            "position": {
+                "x": -0.06795191764831543,
+                "y": 0.5376403331756592
+            },
+            "prefabName": "ClassicGold"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+  "brickAIs": [
+    { "position": { "x": -1.2, "y": 2.0 }, "prefabName": "ClassicRed" },
+    { "position": { "x": -0.6, "y": 2.0 }, "prefabName": "ClassicBlue" },
+    { "position": { "x": 0.0, "y": 2.0 }, "prefabName": "ClassicRed" },
+    { "position": { "x": 0.6, "y": 2.0 }, "prefabName": "ClassicBlue" },
+    { "position": { "x": 1.2, "y": 2.0 }, "prefabName": "ClassicRed" },
+    
+    { "position": { "x": -1.2, "y": 1.4 }, "prefabName": "ClassicBlue" },
+    { "position": { "x": -0.6, "y": 1.4 }, "prefabName": "ClassicRed" },
+    { "position": { "x": 0.0, "y": 1.4 }, "prefabName": "ClassicBlue" },
+    { "position": { "x": 0.6, "y": 1.4 }, "prefabName": "ClassicRed" },
+    { "position": { "x": 1.2, "y": 1.4 }, "prefabName": "ClassicBlue" },
+    
+    { "position": { "x": -1.2, "y": 0.8 }, "prefabName": "ClassicRed" },
+    { "position": { "x": -0.6, "y": 0.8 }, "prefabName": "ClassicBlue" },
+    { "position": { "x": 0.0, "y": 0.8 }, "prefabName": "ClassicRed" },
+    { "position": { "x": 0.6, "y": 0.8 }, "prefabName": "ClassicBlue" },
+    { "position": { "x": 1.2, "y": 0.8 }, "prefabName": "ClassicRed" },
+    
+    { "position": { "x": -1.2, "y": 0.2 }, "prefabName": "ClassicBlue" },
+    { "position": { "x": -0.6, "y": 0.2 }, "prefabName": "ClassicRed" },
+    { "position": { "x": 0.0, "y": 0.2 }, "prefabName": "ClassicBlue" },
+    { "position": { "x": 0.6, "y": 0.2 }, "prefabName": "ClassicRed" },
+    { "position": { "x": 1.2, "y": 0.2 }, "prefabName": "ClassicBlue" },
+    
+    { "position": { "x": -1.2, "y": -0.4 }, "prefabName": "ClassicRed" },
+    { "position": { "x": -0.6, "y": -0.4 }, "prefabName": "ClassicBlue" },
+    { "position": { "x": 0.0, "y": -0.4 }, "prefabName": "ClassicRed" },
+    { "position": { "x": 0.6, "y": -0.4 }, "prefabName": "ClassicBlue" },
+    { "position": { "x": 1.2, "y": -0.4 }, "prefabName": "ClassicRed" }
+  ]
+}

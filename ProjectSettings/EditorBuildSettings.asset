@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScene.unity
+    guid: fd776d7ec5fd647fd9df16a0ad2ac468
+  - enabled: 1
+    path: Assets/Scenes/Authentication.unity
+    guid: 18c4bc2d1b9bc4234ad7224482abb849
+  - enabled: 1
+    path: Assets/Scenes/Register.unity
+    guid: ff6799dd600d6487685c0d836559b7c9
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 53eb829cc71c44e6eb9ceb4979a6a4b3
+  - enabled: 1
+    path: Assets/Scenes/Stages.unity
+    guid: c85ffc5f4cdbf44fea8dd0fae129c382
+  - enabled: 1
+    path: Assets/Scenes/BrickBreaker.unity
+    guid: 05cdc5ec82a07477a8391ef800555aed
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: ebaadf6bae51c45068a8ebab146b0f1b
+  - enabled: 1
+    path: Assets/Scenes/LeaderBoard.unity
+    guid: 2895d496a93d8497cb2da9fa58b317fd
+  - enabled: 1
+    path: Assets/Scenes/Inventory.unity
+    guid: cd6f2c9673d734287871275e8d3fbf08
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: b828160a3a6d14012a1f9b3be12ccafe
+  - enabled: 1
+    path: Assets/Scenes/IAStagesGenerator.unity
+    guid: f1128901d5c0940f091a7a78ddab4198
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

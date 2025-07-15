@@ -1,0 +1,60 @@
+{
+    "bricks": [
+        {
+            "position": {
+                "x": -1.350000023841858,
+                "y": 2.5199999809265138
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": -1.350000023841858,
+                "y": 1.559999942779541
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": 1.2799999713897706,
+                "y": 2.5199999809265138
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": 1.2799999713897706,
+                "y": 1.559999942779541
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": 0.37999987602233889,
+                "y": 2.5199999809265138
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": 0.37999987602233889,
+                "y": 1.559999942779541
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": -0.5,
+                "y": 2.5199999809265138
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": -0.5,
+                "y": 1.559999942779541
+            },
+            "prefabName": "ClassicViolet"
+        }
+    ]
+}

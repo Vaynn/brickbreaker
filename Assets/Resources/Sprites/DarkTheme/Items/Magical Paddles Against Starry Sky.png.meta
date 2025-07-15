@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 5524ed03ed33941df9d95793bd301710
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6356338780680903334
+    second: Magical Paddles Against Starry Sky_0
+  - first:
+      213: -872822460674143106
+    second: Magical Paddles Against Starry Sky_1
+  - first:
+      213: 3691411102957832668
+    second: Magical Paddles Against Starry Sky_2
+  - first:
+      213: 3482749478783647048
+    second: Magical Paddles Against Starry Sky_3
+  - first:
+      213: 5652626711196381270
+    second: Magical Paddles Against Starry Sky_4
+  - first:
+      213: 3976271586843930087
+    second: Magical Paddles Against Starry Sky_5
+  - first:
+      213: 5667428725076535365
+    second: Magical Paddles Against Starry Sky_6
+  - first:
+      213: -8236012336427957258
+    second: Magical Paddles Against Starry Sky_7
+  - first:
+      213: -8722678099448330801
+    second: Magical Paddles Against Starry Sky_8
+  - first:
+      213: -4668156944153022062
+    second: Magical Paddles Against Starry Sky_9
+  - first:
+      213: 5907204888370561634
+    second: Magical Paddles Against Starry Sky_10
+  - first:
+      213: 8403316437756318558
+    second: Magical Paddles Against Starry Sky_11
+  - first:
+      213: 8720105093434426139
+    second: Magical Paddles Against Starry Sky_12
+  - first:
+      213: 3755209129902715629
+    second: Magical Paddles Against Starry Sky_13
+  - first:
+      213: 3193891676763895238
+    second: Magical Paddles Against Starry Sky_14
+  - first:
+      213: -4056074795451993063
+    second: Magical Paddles Against Starry Sky_15
+  - first:
+      213: -2130703705123688541
+    second: Magical Paddles Against Starry Sky_16
+  - first:
+      213: 8321715834215508724
+    second: Magical Paddles Against Starry Sky_17
+  - first:
+      213: -1895325671253636997
+    second: Magical Paddles Against Starry Sky_18
+  - first:
+      213: 5403928787542949281
+    second: Magical Paddles Against Starry Sky_19
+  - first:
+      213: -1963293785417600455
+    second: Magical Paddles Against Starry Sky_20
+  - first:
+      213: -7896843568267206454
+    second: Magical Paddles Against Starry Sky_21
+  - first:
+      213: 5423368790313429466
+    second: Magical Paddles Against Starry Sky_22
+  - first:
+      213: 4322685441334619520
+    second: Magical Paddles Against Starry Sky_23
+  - first:
+      213: -1345546497057941172
+    second: Magical Paddles Against Starry Sky_24
+  - first:
+      213: -8318577770200950300
+    second: Magical Paddles Against Starry Sky_25
+  - first:
+      213: -1200768327441612734
+    second: Magical Paddles Against Starry Sky_26
+  - first:
+      213: -8485308805610354078
+    second: Magical Paddles Against Starry Sky_27
+  - first:
+      213: 1201277385712409921
+    second: Magical Paddles Against Starry Sky_28
+  - first:
+      213: -1890048759439451975
+    second: Magical Paddles Against Starry Sky_29
+  - first:
+      213: -9033841471933019564
+    second: Magical Paddles Against Starry Sky_30
+  - first:
+      213: 6089168405312910557
+    second: Magical Paddles Against Starry Sky_31
+  - first:
+      213: 7501028400206156787
+    second: Magical Paddles Against Starry Sky_32
+  - first:
+      213: 4756563827497046037
+    second: Magical Paddles Against Starry Sky_33
+  - first:
+      213: -2366782770207737069
+    second: Magical Paddles Against Starry Sky_34
+  - first:
+      213: 4057153277857319643
+    second: Magical Paddles Against Starry Sky_35
+  - first:
+      213: 1285378819449484782
+    second: Magical Paddles Against Starry Sky_36
+  - first:
+      213: 8159410369903606703
+    second: Magical Paddles Against Starry Sky_37
+  - first:
+      213: 1608412809332882698
+    second: Magical Paddles Against Starry Sky_38
+  - first:
+      213: -1863781735492960974
+    second: Magical Paddles Against Starry Sky_39
+  - first:
+      213: -6770224785904215120
+    second: Magical Paddles Against Starry Sky_40
+  - first:
+      213: -6860849150581701623
+    second: Magical Paddles Against Starry Sky_41
+  - first:
+      213: -3496081534293814712
+    second: Magical Paddles Against Starry Sky_42
+  - first:
+      213: 3188289267796110409
+    second: Magical Paddles Against Starry Sky_43
+  - first:
+      213: 8493040367390617795
+    second: Magical Paddles Against Starry Sky_44
+  - first:
+      213: -55416281029895297
+    second: Magical Paddles Against Starry Sky_45
+  - first:
+      213: 6094548627896776153
+    second: Magical Paddles Against Starry Sky_46
+  - first:
+      213: -4378899720525579199
+    second: Magical Paddles Against Starry Sky_47
+  - first:
+      213: -7399911748267287761
+    second: Magical Paddles Against Starry Sky_48
+  - first:
+      213: 7444666445352160777
+    second: Magical Paddles Against Starry Sky_49
+  - first:
+      213: -5341662124062633048
+    second: Magical Paddles Against Starry Sky_50
+  - first:
+      213: -4864296137587325039
+    second: Magical Paddles Against Starry Sky_51
+  - first:
+      213: -6371680174856967949
+    second: Magical Paddles Against Starry Sky_52
+  - first:
+      213: 877638621994140255
+    second: Magical Paddles Against Starry Sky_53
+  - first:
+      213: -1490365978971430268
+    second: Magical Paddles Against Starry Sky_54
+  - first:
+      213: 1383091574092202965
+    second: Magical Paddles Against Starry Sky_55
+  - first:
+      213: 6221989494009822608
+    second: Magical Paddles Against Starry Sky_56
+  - first:
+      213: -7698392324961625519
+    second: Magical Paddles Against Starry Sky_57
+  - first:
+      213: -998972497388245912
+    second: Magical Paddles Against Starry Sky_58
+  - first:
+      213: 760322948606164604
+    second: Magical Paddles Against Starry Sky_59
+  - first:
+      213: -4990169142988499703
+    second: Magical Paddles Against Starry Sky_60
+  - first:
+      213: -4922070869426785666
+    second: Magical Paddles Against Starry Sky_61
+  - first:
+      213: 567165534373049935
+    second: Magical Paddles Against Starry Sky_62
+  - first:
+      213: -3171405198289711233
+    second: Magical Paddles Against Starry Sky_63
+  - first:
+      213: 8176085382549332607
+    second: Magical Paddles Against Starry Sky_64
+  - first:
+      213: -3231511447569147744
+    second: Magical Paddles Against Starry Sky_65
+  - first:
+      213: 6593933865806275466
+    second: Magical Paddles Against Starry Sky_66
+  - first:
+      213: 3502875011532768556
+    second: Magical Paddles Against Starry Sky_67
+  - first:
+      213: -7018488749446606128
+    second: Magical Paddles Against Starry Sky_68
+  - first:
+      213: -5701192356737015933
+    second: Magical Paddles Against Starry Sky_69
+  - first:
+      213: -1265199266215341317
+    second: Magical Paddles Against Starry Sky_70
+  - first:
+      213: 1302677120153877780
+    second: Magical Paddles Against Starry Sky_71
+  - first:
+      213: -2006946842174965385
+    second: Magical Paddles Against Starry Sky_72
+  - first:
+      213: -8839703186681546090
+    second: Magical Paddles Against Starry Sky_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magical Paddles Against Starry Sky_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 710
+        width: 977
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad310dd99c9efa40800000000000000
+      internalID: 5403928787542949281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magical Paddles Against Starry Sky_27
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 97
+        width: 977
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ac91039902e3a80800000000000000
+      internalID: -8485308805610354078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magical Paddles Against Starry Sky_28
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 408
+        width: 977
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d191cea6bcba010800000000000000
+      internalID: 1201277385712409921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e35546ae1ac614b72b7cc3d95e69bba5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magical Paddles Against Starry Sky_19: 5403928787542949281
+      Magical Paddles Against Starry Sky_27: -8485308805610354078
+      Magical Paddles Against Starry Sky_28: 1201277385712409921
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

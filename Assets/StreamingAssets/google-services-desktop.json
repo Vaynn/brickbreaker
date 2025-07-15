@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "278816157617",
+    "firebase_url": "https://brick-breaker-3ecdd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "brick-breaker-3ecdd",
+    "storage_bucket": "brick-breaker-3ecdd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278816157617:ios:8d0b4b4e50a00677091790",
+        "android_client_info": {
+          "package_name": "com.yvmartor.brickbreaker"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNz5-jVq44A99LXVyY2CBFKI629HbNAd8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278816157617-knbsh9d3a6hvrhf5ph5l2vhe6bsagp1m.apps.googleusercontent.com"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}

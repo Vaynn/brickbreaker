@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: d38ac35d62a3a44d1badac5bc264900d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2682457194499045448
+    second: Stages_0
+  - first:
+      213: 553108029275643031
+    second: Stages_1
+  - first:
+      213: 245331279836845902
+    second: Stages_2
+  - first:
+      213: -472386776762397609
+    second: Stages_3
+  - first:
+      213: -7327724018209857321
+    second: Stages_4
+  - first:
+      213: -6623992559641836024
+    second: Stages_5
+  - first:
+      213: -6545056601635837420
+    second: Stages_6
+  - first:
+      213: -234670160893013479
+    second: Stages_7
+  - first:
+      213: 6785633981233277762
+    second: Stages_8
+  - first:
+      213: 6731733880126961474
+    second: Stages_9
+  - first:
+      213: -3630837067365831225
+    second: Stages_10
+  - first:
+      213: -3502044967031336289
+    second: Stages_11
+  - first:
+      213: -6187721729160545763
+    second: Stages_12
+  - first:
+      213: 3407096310753186502
+    second: Stages_13
+  - first:
+      213: 4571459902174575
+    second: Stages_14
+  - first:
+      213: -3485454423107647690
+    second: Stages_15
+  - first:
+      213: -5519699125967922381
+    second: Stages_16
+  - first:
+      213: 8385470534932331727
+    second: Stages_17
+  - first:
+      213: -7620997903014681211
+    second: Stages_18
+  - first:
+      213: -1177952218798909551
+    second: Stages_19
+  - first:
+      213: 4532280256055738299
+    second: Stages_20
+  - first:
+      213: -4161329823409174799
+    second: Stages_21
+  - first:
+      213: -5817174787077747867
+    second: Stages_22
+  - first:
+      213: 6492879612641020111
+    second: Stages_23
+  - first:
+      213: -4295146705606298949
+    second: Stages_24
+  - first:
+      213: 4750468203393325195
+    second: Stages_25
+  - first:
+      213: 864199408339508855
+    second: Stages_26
+  - first:
+      213: -2820784777155756245
+    second: Stages_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stages_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 250
+        width: 1392
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8487e4b2b900a3520800000000000000
+      internalID: 2682457194499045448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7e0e33dcc70c34789916d068b7c344c4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Stages_0: 2682457194499045448
+      Stages_1: 553108029275643031
+      Stages_10: -3630837067365831225
+      Stages_11: -3502044967031336289
+      Stages_12: -6187721729160545763
+      Stages_13: 3407096310753186502
+      Stages_14: 4571459902174575
+      Stages_15: -3485454423107647690
+      Stages_16: -5519699125967922381
+      Stages_17: 8385470534932331727
+      Stages_18: -7620997903014681211
+      Stages_19: -1177952218798909551
+      Stages_2: 245331279836845902
+      Stages_20: 4532280256055738299
+      Stages_21: -4161329823409174799
+      Stages_22: -5817174787077747867
+      Stages_23: 6492879612641020111
+      Stages_24: -4295146705606298949
+      Stages_25: 4750468203393325195
+      Stages_26: 864199408339508855
+      Stages_27: -2820784777155756245
+      Stages_3: -472386776762397609
+      Stages_4: -7327724018209857321
+      Stages_5: -6623992559641836024
+      Stages_6: -6545056601635837420
+      Stages_7: -234670160893013479
+      Stages_8: 6785633981233277762
+      Stages_9: 6731733880126961474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

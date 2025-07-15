@@ -1,0 +1,109 @@
+{
+    "bricks": [
+        {
+            "position": {
+                "x": -1.7999999523162842,
+                "y": -0.9000000953674316
+            },
+            "prefabName": "ClassicBlue"
+        },
+        {
+            "position": {
+                "x": 1.8000001907348633,
+                "y": 2.700000047683716
+            },
+            "prefabName": "ClassicBlue"
+        },
+        {
+            "position": {
+                "x": 1.8000001907348633,
+                "y": -0.8999998569488525
+            },
+            "prefabName": "ClassicBlue"
+        },
+        {
+            "position": {
+                "x": -0.8999999761581421,
+                "y": 2.700000047683716
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": -0.8999999761581421,
+                "y": 1.7999999523162842
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": -0.8999999761581421,
+                "y": 0.0
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": -0.8999999761581421,
+                "y": -0.8999998569488525
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": 0.9000000953674316,
+                "y": 2.700000047683716
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": 0.9000000953674316,
+                "y": 1.7999999523162842
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": 0.9000000953674316,
+                "y": 0.0
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": 0.9000000953674316,
+                "y": -0.8999998569488525
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": 0.0,
+                "y": 2.700000047683716
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": 0.0,
+                "y": -0.8999998569488525
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": 0.0,
+                "y": 0.8999999761581421
+            },
+            "prefabName": "ClassicRed"
+        },
+        {
+            "position": {
+                "x": -1.7999999523162842,
+                "y": 2.700000047683716
+            },
+            "prefabName": "ExtraLife"
+        }
+    ]
+}

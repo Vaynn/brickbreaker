@@ -1,0 +1,123 @@
+{
+    "bricks": [
+        {
+            "position": {
+                "x": -1.8279519081115723,
+                "y": 2.037640333175659
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": -1.8279519081115723,
+                "y": -0.7723596096038818
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": 1.712048053741455,
+                "y": -0.7723596096038818
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": -1.8279519081115723,
+                "y": 0.1676403284072876
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": 1.712048053741455,
+                "y": 0.1676403284072876
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": -1.8279519081115723,
+                "y": 1.107640266418457
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": 1.712048053741455,
+                "y": 1.107640266418457
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": -1.8279519081115723,
+                "y": -1.7123596668243409
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": 1.7020480632781983,
+                "y": 2.037640333175659
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": 1.7020480632781983,
+                "y": -1.7123596668243409
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": 0.8320479393005371,
+                "y": 2.037640333175659
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": 0.8320479393005371,
+                "y": -1.7123596668243409
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": -0.0879518985748291,
+                "y": 2.037640333175659
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": -0.0879518985748291,
+                "y": -1.7123596668243409
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": -0.9579520225524902,
+                "y": 2.037640333175659
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": -0.9579520225524902,
+                "y": -1.7123596668243409
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": -0.09795188903808594,
+                "y": 0.1376403570175171
+            },
+            "prefabName": "BallSpeedUp"
+        }
+    ]
+}

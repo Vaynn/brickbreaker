@@ -1,0 +1,67 @@
+{
+    "bricks": [
+        {
+            "position": {
+                "x": 0.03204798698425293,
+                "y": 2.5176403522491457
+            },
+            "prefabName": "ClassicBlue"
+        },
+        {
+            "position": {
+                "x": 0.03204798698425293,
+                "y": -1.0223596096038819
+            },
+            "prefabName": "ClassicBlue"
+        },
+        {
+            "position": {
+                "x": -1.787951946258545,
+                "y": 0.7776403427124023
+            },
+            "prefabName": "ClassicBlue"
+        },
+        {
+            "position": {
+                "x": 1.8620481491088868,
+                "y": 0.7776403427124023
+            },
+            "prefabName": "ClassicBlue"
+        },
+        {
+            "position": {
+                "x": 0.03204798698425293,
+                "y": 1.637640357017517
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": 0.03204798698425293,
+                "y": 0.7676403522491455
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": 0.9420480728149414,
+                "y": 0.7676403522491455
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": -0.877951979637146,
+                "y": 0.7676403522491455
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": 0.042047977447509769,
+                "y": -0.1223597526550293
+            },
+            "prefabName": "ExpandPaddle"
+        }
+    ]
+}

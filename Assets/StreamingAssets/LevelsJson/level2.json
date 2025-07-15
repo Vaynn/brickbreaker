@@ -1,0 +1,95 @@
+{
+    "bricks": [
+        {
+            "position": {
+                "x": 0.03204798698425293,
+                "y": 2.477640390396118
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": 0.03204798698425293,
+                "y": 1.607640266418457
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": 0.03204798698425293,
+                "y": -0.21235966682434083
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": 0.03204798698425293,
+                "y": -1.0823595523834229
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": 0.9420480728149414,
+                "y": 1.607640266418457
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": 0.9420480728149414,
+                "y": -0.21235966682434083
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": 1.8520479202270508,
+                "y": 0.6976402997970581
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": -0.877951979637146,
+                "y": 1.607640266418457
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": -0.877951979637146,
+                "y": -0.21235966682434083
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": -1.787951946258545,
+                "y": 0.737640380859375
+            },
+            "prefabName": "ClassicViolet"
+        },
+        {
+            "position": {
+                "x": 0.03204798698425293,
+                "y": 0.7276403903961182
+            },
+            "prefabName": "ClassicBlue"
+        },
+        {
+            "position": {
+                "x": 0.9420480728149414,
+                "y": 0.7276403903961182
+            },
+            "prefabName": "ClassicBlue"
+        },
+        {
+            "position": {
+                "x": -0.877951979637146,
+                "y": 0.7276403903961182
+            },
+            "prefabName": "ClassicBlue"
+        }
+    ]
+}

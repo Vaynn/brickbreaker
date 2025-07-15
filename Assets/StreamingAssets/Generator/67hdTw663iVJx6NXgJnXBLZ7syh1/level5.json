@@ -1,0 +1,33 @@
+{
+  "brickAIs": [
+    { "position": { "x": -1.2, "y": 1.6 }, "prefabName": "ClassicRed" },
+    { "position": { "x": -0.6, "y": 1.6 }, "prefabName": "ClassicOrange" },
+    { "position": { "x": 0, "y": 1.6 }, "prefabName": "ClassicRed" },
+    { "position": { "x": 0.6, "y": 1.6 }, "prefabName": "ClassicOrange" },
+    { "position": { "x": 1.2, "y": 1.6 }, "prefabName": "ClassicRed" },
+
+    { "position": { "x": -1.2, "y": 0.8 }, "prefabName": "ClassicOrange" },
+    { "position": { "x": -0.6, "y": 0.8 }, "prefabName": "ClassicRed" },
+    { "position": { "x": 0, "y": 0.8 }, "prefabName": "ClassicOrange" },
+    { "position": { "x": 0.6, "y": 0.8 }, "prefabName": "ClassicRed" },
+    { "position": { "x": 1.2, "y": 0.8 }, "prefabName": "ClassicOrange" },
+
+    { "position": { "x": -1.2, "y": 0 }, "prefabName": "ClassicRed" },
+    { "position": { "x": -0.6, "y": 0 }, "prefabName": "ClassicOrange" },
+    { "position": { "x": 0, "y": 0 }, "prefabName": "ClassicRed" },
+    { "position": { "x": 0.6, "y": 0 }, "prefabName": "ClassicOrange" },
+    { "position": { "x": 1.2, "y": 0 }, "prefabName": "ClassicRed" },
+
+    { "position": { "x": -1.2, "y": -0.8 }, "prefabName": "ClassicOrange" },
+    { "position": { "x": -0.6, "y": -0.8 }, "prefabName": "ClassicRed" },
+    { "position": { "x": 0, "y": -0.8 }, "prefabName": "ClassicOrange" },
+    { "position": { "x": 0.6, "y": -0.8 }, "prefabName": "ClassicRed" },
+    { "position": { "x": 1.2, "y": -0.8 }, "prefabName": "ClassicOrange" },
+
+    { "position": { "x": -1.2, "y": -1.6 }, "prefabName": "ClassicRed" },
+    { "position": { "x": -0.6, "y": -1.6 }, "prefabName": "ClassicOrange" },
+    { "position": { "x": 0, "y": -1.6 }, "prefabName": "ClassicRed" },
+    { "position": { "x": 0.6, "y": -1.6 }, "prefabName": "ClassicOrange" },
+    { "position": { "x": 1.2, "y": -1.6 }, "prefabName": "ClassicRed" }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+    "bricks": [
+        {
+            "position": {
+                "x": -0.8679519891738892,
+                "y": 2.437640428543091
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": -0.8679519891738892,
+                "y": -0.262359619140625
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": 0.03204822540283203,
+                "y": 2.437640428543091
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": 0.03204822540283203,
+                "y": -0.262359619140625
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": 0.9320478439331055,
+                "y": 2.437640428543091
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": 0.9320478439331055,
+                "y": -0.262359619140625
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": 1.782048225402832,
+                "y": 1.5376403331756592
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": -1.7079520225524903,
+                "y": 1.5376403331756592
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": -1.6779520511627198,
+                "y": 0.6376403570175171
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": 1.772047996520996,
+                "y": 0.6376403570175171
+            },
+            "prefabName": "ClassicGreen"
+        },
+        {
+            "position": {
+                "x": 0.03204798698425293,
+                "y": -1.1523597240447999
+            },
+            "prefabName": "ClassicBlue"
+        },
+        {
+            "position": {
+                "x": 0.03204798698425293,
+                "y": 0.6376403570175171
+            },
+            "prefabName": "ExtraLife"
+        },
+        {
+            "position": {
+                "x": -0.8379520177841187,
+                "y": 1.5376403331756592
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": 0.9120481014251709,
+                "y": 1.5376403331756592
+            },
+            "prefabName": "ClassicOrange"
+        },
+        {
+            "position": {
+                "x": 0.03204798698425293,
+                "y": 1.5376403331756592
+            },
+            "prefabName": "ClassicRed"
+        },
+        {
+            "position": {
+                "x": -0.8179519176483154,
+                "y": 0.6376403570175171
+            },
+            "prefabName": "ClassicRed"
+        },
+        {
+            "position": {
+                "x": 0.9020481109619141,
+                "y": 0.6376403570175171
+            },
+            "prefabName": "ClassicRed"
+        }
+    ]
+}

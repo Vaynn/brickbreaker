@@ -1,0 +1,20 @@
+{
+  "bricks": [
+    { "position": {"x":-2,"y":3}, "prefabName":"ClassicGold" },
+    { "position": {"x": 2,"y":3}, "prefabName":"ClassicGold" },
+    { "position": {"x":-1,"y":2}, "prefabName":"ClassicViolet" },
+    { "position": {"x": 0,"y":2}, "prefabName":"ClassicViolet" },
+    { "position": {"x": 1,"y":2}, "prefabName":"ClassicViolet" },
+    { "position": {"x":-2,"y":1}, "prefabName":"ClassicViolet" },
+    { "position": {"x":-1,"y":1}, "prefabName":"ExtraLife"    },  
+    { "position": {"x": 0,"y":1}, "prefabName":"ClassicViolet" },
+    { "position": {"x": 1,"y":1}, "prefabName":"ClassicViolet" },
+    { "position": {"x": 2,"y":1}, "prefabName":"ClassicViolet" },
+    { "position": {"x":-1,"y":0}, "prefabName":"ClassicViolet" },
+    { "position": {"x": 0,"y":0}, "prefabName":"ClassicViolet" },
+    { "position": {"x": 1,"y":0}, "prefabName":"ClassicViolet" },
+    { "position": {"x":-1,"y":-1},"prefabName":"ClassicViolet" },
+    { "position": {"x": 0,"y":-1},"prefabName":"ClassicViolet" },
+    { "position": {"x": 1,"y":-1},"prefabName":"ClassicViolet" }
+  ]
+}

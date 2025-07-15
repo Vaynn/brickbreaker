@@ -1,0 +1,657 @@
+fileFormatVersion: 2
+guid: bb7381928e8dc4fdb88641e2ab553a7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8720238701191936132
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_0
+  - first:
+      213: 5503183276492842457
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_1
+  - first:
+      213: 2076689446840942441
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_2
+  - first:
+      213: -8035779558639870710
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_3
+  - first:
+      213: -6243429963970970139
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_4
+  - first:
+      213: -6299102082598884886
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_5
+  - first:
+      213: -7892075014137373965
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_6
+  - first:
+      213: -6127669987611183938
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_7
+  - first:
+      213: -6564386384687962084
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_8
+  - first:
+      213: 6349395690056768861
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_9
+  - first:
+      213: -4480996872321323481
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_10
+  - first:
+      213: -4023007846133749041
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_11
+  - first:
+      213: 3521534298775579598
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_12
+  - first:
+      213: -1215464383951670136
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_13
+  - first:
+      213: -755402591546653186
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_14
+  - first:
+      213: -6757475944944302823
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_15
+  - first:
+      213: 7008870876615276470
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_16
+  - first:
+      213: 1492836851307895269
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_17
+  - first:
+      213: 4323414613334686340
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_18
+  - first:
+      213: -716908662831428309
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_19
+  - first:
+      213: 2973816537780414744
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_20
+  - first:
+      213: -1291603527718694342
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_21
+  - first:
+      213: -582174137097236142
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_22
+  - first:
+      213: -4858893522804267521
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_23
+  - first:
+      213: -6722188652510748307
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_24
+  - first:
+      213: 8370689661453406855
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_25
+  - first:
+      213: -2372055381576302264
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_26
+  - first:
+      213: -3203973872444130698
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_27
+  - first:
+      213: 7016958259836343808
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_28
+  - first:
+      213: -8039429011388344523
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_29
+  - first:
+      213: -967217130832807663
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_30
+  - first:
+      213: 8744391526377688721
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_31
+  - first:
+      213: 3766023354384628747
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_32
+  - first:
+      213: -735566658394395104
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_33
+  - first:
+      213: 5658685311781134334
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_34
+  - first:
+      213: -8446077264890293501
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_35
+  - first:
+      213: -2224338228025829383
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_36
+  - first:
+      213: 6196530650911493691
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_37
+  - first:
+      213: 5325819766289147137
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_38
+  - first:
+      213: 4078605959214826918
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_39
+  - first:
+      213: 301592787249906696
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_40
+  - first:
+      213: -5025202209527528148
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_41
+  - first:
+      213: -8835291010465999315
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_42
+  - first:
+      213: 3915002344334456806
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_43
+  - first:
+      213: 6126380551282544949
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_44
+  - first:
+      213: 8970777304544701182
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_45
+  - first:
+      213: -878198721633082324
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_46
+  - first:
+      213: -7800401088856753632
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_47
+  - first:
+      213: -2255804855856192965
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_48
+  - first:
+      213: 4397777849552555997
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_49
+  - first:
+      213: -8686817397962336937
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_50
+  - first:
+      213: 390253818624030618
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_51
+  - first:
+      213: -1081500316795003655
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_52
+  - first:
+      213: -5987372481972284937
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_53
+  - first:
+      213: 8947385851506261484
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_54
+  - first:
+      213: -1350347132815272761
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_55
+  - first:
+      213: 3280753382902773620
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_56
+  - first:
+      213: 6414810467683046219
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_57
+  - first:
+      213: -7786683419391766949
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_58
+  - first:
+      213: -1114203533187892299
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_59
+  - first:
+      213: -2428216067817377557
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_60
+  - first:
+      213: 6760194320148307545
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_61
+  - first:
+      213: -3843893784662163963
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_62
+  - first:
+      213: -8026947618853297471
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_63
+  - first:
+      213: 4548251632355496074
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_64
+  - first:
+      213: -1130980187514663353
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_65
+  - first:
+      213: -4649267487416556170
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_66
+  - first:
+      213: 677582706029437043
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_67
+  - first:
+      213: -6022655287672778419
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_68
+  - first:
+      213: 1651260115687790751
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_69
+  - first:
+      213: 2651350649201715527
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_70
+  - first:
+      213: 2347195969949401032
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_71
+  - first:
+      213: -729200629627647970
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_72
+  - first:
+      213: -8663550433854571297
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_73
+  - first:
+      213: -8332364884921769811
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_74
+  - first:
+      213: 4561113668274512711
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_75
+  - first:
+      213: 8229072911614746355
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_76
+  - first:
+      213: -5578607082895133760
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_77
+  - first:
+      213: 7954056806123408090
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_78
+  - first:
+      213: 3048337059922355532
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_79
+  - first:
+      213: -2419382699978634889
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_80
+  - first:
+      213: -4360412789863274265
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_81
+  - first:
+      213: 5245060205773344528
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_82
+  - first:
+      213: -2185838318701027458
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_83
+  - first:
+      213: -2246739121164873493
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_84
+  - first:
+      213: 8551426198307680210
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_85
+  - first:
+      213: 5019508560186258801
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_86
+  - first:
+      213: 988274462815296073
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_87
+  - first:
+      213: -8538168009946383666
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_88
+  - first:
+      213: 7294111720263189478
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_89
+  - first:
+      213: 1040334842529759955
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_90
+  - first:
+      213: 7748825607873187181
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_91
+  - first:
+      213: 1955774887298679532
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_92
+  - first:
+      213: -7773214282045646332
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_93
+  - first:
+      213: 1757550674354078416
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_94
+  - first:
+      213: -752610344268007123
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_95
+  - first:
+      213: 7590902431707554075
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_96
+  - first:
+      213: -5414005502596178302
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_97
+  - first:
+      213: -8075932796325469551
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_98
+  - first:
+      213: 8436468234567153614
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_99
+  - first:
+      213: 8734356591715631670
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_100
+  - first:
+      213: -7563753619404396083
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_101
+  - first:
+      213: -7925527230176323411
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_102
+  - first:
+      213: 8505347837112486058
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_103
+  - first:
+      213: 8925011341755830562
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_104
+  - first:
+      213: 5326207804914081139
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_105
+  - first:
+      213: -3887379528663130540
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_106
+  - first:
+      213: 3014113428386025822
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_107
+  - first:
+      213: 3273457470452695771
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_108
+  - first:
+      213: 3241235202225432615
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_109
+  - first:
+      213: -7524734144995954074
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_110
+  - first:
+      213: 5275643340935255060
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_111
+  - first:
+      213: -4153189729718970891
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_112
+  - first:
+      213: 4745407762522230771
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_113
+  - first:
+      213: 5328236508402987800
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_114
+  - first:
+      213: 8651676288038591980
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_115
+  - first:
+      213: 8846436127649465737
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_116
+  - first:
+      213: 1025315640730956514
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_117
+  - first:
+      213: 7538245553757968429
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_118
+  - first:
+      213: -6490948858746112342
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_119
+  - first:
+      213: -8836440453735802065
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_120
+  - first:
+      213: 540621402618565164
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_121
+  - first:
+      213: -7387908933945818372
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_122
+  - first:
+      213: -876582112940136326
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_123
+  - first:
+      213: -8792789387806514498
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_124
+  - first:
+      213: 543484257394151127
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_125
+  - first:
+      213: 7308254383713075457
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_126
+  - first:
+      213: -3815940516139103706
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_127
+  - first:
+      213: 2674682455737748404
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_128
+  - first:
+      213: -8662818866762140113
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_129
+  - first:
+      213: -6044939918299248048
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_130
+  - first:
+      213: -6182376814603665005
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_131
+  - first:
+      213: 6318218621396593879
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_132
+  - first:
+      213: -4493831987942386402
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_133
+  - first:
+      213: -6605363605730734415
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_134
+  - first:
+      213: 7266593576794120718
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_135
+  - first:
+      213: -7363966789739786477
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_136
+  - first:
+      213: -2366125622284287923
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_137
+  - first:
+      213: 4852657711695271092
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_138
+  - first:
+      213: -4939086509915962158
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_139
+  - first:
+      213: -4811030101216510328
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_140
+  - first:
+      213: 1094869565512430231
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_141
+  - first:
+      213: 6846235355942118065
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_142
+  - first:
+      213: -1466955646748549777
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_143
+  - first:
+      213: 7869109671763718552
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_144
+  - first:
+      213: -62378529746778304
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_145
+  - first:
+      213: -1472846979433392015
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_146
+  - first:
+      213: 4665934232741504025
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_147
+  - first:
+      213: 1246284152632500474
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_148
+  - first:
+      213: -3037215319301826165
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_149
+  - first:
+      213: -6793848111180504998
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_150
+  - first:
+      213: -5629637908192062330
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_151
+  - first:
+      213: -645789060652609733
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_152
+  - first:
+      213: 8584986244554506998
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_153
+  - first:
+      213: -3509012923456776111
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_154
+  - first:
+      213: 1159368398775431542
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_155
+  - first:
+      213: -7438354759662395948
+    second: ChatGPT Image Apr 23, 2025, 12_24_43 PM_156
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Croissant_Paddle_5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 139
+        width: 947
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dfdd93e7d244f849030b6b67aa9984
+      internalID: 2024632620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6d59c4e1f28884d6eb2e35897321576d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Croissant_Paddle_0: 226690710
+      Croissant_Paddle_1: 640417670
+      Croissant_Paddle_10: 1662474390
+      Croissant_Paddle_11: 1748499538
+      Croissant_Paddle_12: -1035186462
+      Croissant_Paddle_13: 780550704
+      Croissant_Paddle_14: -2094577370
+      Croissant_Paddle_15: 578962064
+      Croissant_Paddle_16: -1258974338
+      Croissant_Paddle_17: -1988744894
+      Croissant_Paddle_18: 2103428655
+      Croissant_Paddle_19: 1741261352
+      Croissant_Paddle_2: -433604470
+      Croissant_Paddle_20: -1415965417
+      Croissant_Paddle_3: -1786057042
+      Croissant_Paddle_4: 832452237
+      Croissant_Paddle_5: 2024632620
+      Croissant_Paddle_6: -1821329140
+      Croissant_Paddle_7: -1708855800
+      Croissant_Paddle_8: 190606935
+      Croissant_Paddle_9: -1009189064
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

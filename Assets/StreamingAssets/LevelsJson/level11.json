@@ -1,0 +1,81 @@
+{
+    "bricks": [
+        {
+            "position": {
+                "x": 0.0,
+                "y": 2.700000047683716
+            },
+            "prefabName": "ClassicGold"
+        },
+        {
+            "position": {
+                "x": 0.0,
+                "y": -0.8999998569488525
+            },
+            "prefabName": "ClassicGold"
+        },
+        {
+            "position": {
+                "x": -0.8999999761581421,
+                "y": 1.7999999523162842
+            },
+            "prefabName": "ClassicGold"
+        },
+        {
+            "position": {
+                "x": 0.9000000953674316,
+                "y": 1.7999999523162842
+            },
+            "prefabName": "ClassicGold"
+        },
+        {
+            "position": {
+                "x": 1.8000001907348633,
+                "y": 0.8999999761581421
+            },
+            "prefabName": "ClassicGold"
+        },
+        {
+            "position": {
+                "x": -1.7999999523162842,
+                "y": 0.8999999761581421
+            },
+            "prefabName": "ClassicGold"
+        },
+        {
+            "position": {
+                "x": -1.7999999523162842,
+                "y": 1.7999999523162842
+            },
+            "prefabName": "BonusLifeUp"
+        },
+        {
+            "position": {
+                "x": 1.8000001907348633,
+                "y": 1.7999999523162842
+            },
+            "prefabName": "ExpandPaddle"
+        },
+        {
+            "position": {
+                "x": -1.0,
+                "y": 0.0
+            },
+            "prefabName": "BallSpeedUp"
+        },
+        {
+            "position": {
+                "x": 0.9000000953674316,
+                "y": 0.0
+            },
+            "prefabName": "ShrinkPaddle"
+        },
+        {
+            "position": {
+                "x": 0.0,
+                "y": 0.8999999761581421
+            },
+            "prefabName": "ClassicGreen"
+        }
+    ]
+}
