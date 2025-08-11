@@ -26,3 +26,6 @@ Thumbs.db
 
 # Autres fichiers Unity inutiles
 *.unitypackage
+
+Assets/StreamingAssets/openai_key.txt 
+Assets/StreamingAssets/openai_key.txt.meta
